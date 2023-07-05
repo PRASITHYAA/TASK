@@ -1,0 +1,36 @@
+ @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&family=Questrial&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Questrial', sans-serif;
+}
+
+/* home */
+h1, h2, h3, h4, h5{
+    font-family: 'Libre Caslon Text', serif;
+}
+.banner img{
+padding: 0;
+margin: 0;
+}
+.banner h6{
+    font-size: 18px;
+}
+.banner h4{
+    font-size: 30px;
+}
+.banner .banner-right-col{
+padding: 0 !important;
+}
+
+/* footer */
+.footer a:hover {
+    background-color:rgb(199, 114, 10);
+  }
+  
+  /* work with me */
+.title {
+    white-space: nowrap;
+}
